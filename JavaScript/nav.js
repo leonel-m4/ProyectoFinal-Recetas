@@ -29,7 +29,7 @@ const recetas = [
   { nombre: "Pollo al horno con puré", descripcion: "Pollo al horno marinado acompañado de puré. Comida clásica de domingo.", imagen: "img/pollohornopure.jpg", link: "TodasRecetas/Pollo al horno con pure.html" },
   { nombre: "Chicharrón de chancho con mote", descripcion: "Carne de cerdo frita servida con mote y salsas. Plato serrano tradicional.", imagen: "img/chicharronchanchomote.jpg", link: "TodasRecetas/Chicharrón de chancho con mote.html" },
   { nombre: "Juane", descripcion: "Arroz con carne envuelto en hoja de bijao. Plato típico de la selva peruana.", imagen: "img/juane.jpg", link: "TodasRecetas/Juane.html" },
-  { nombre: "Pachamanca", descripcion: "Carnes cocidas bajo tierra con hierbas y papas. Técnica ancestral andina.", imagen: "img/juane.jpg", link: "TodasRecetas/Pachamanca.html" },
+  { nombre: "Pachamanca", descripcion: "Carnes cocidas bajo tierra con hierbas y papas. Técnica ancestral andina.", imagen: "img/pachamanca.jpg", link: "TodasRecetas/Pachamanca.html" },
   { nombre: "Pollo al maní", descripcion: "Pollo en salsa cremosa de maní y especias. Sabor suave y envolvente.", imagen: "img/pollomani.jpg", link: "TodasRecetas/pollo al mani.html" },
   { nombre: "Carapulcra", descripcion: "Guiso de papa seca con carne y maní. Tradicional de la sierra.", imagen: "img/carapulcra.jpg", link: "TodasRecetas/Carapulcra.html" },
   { nombre: "Sopa Seca con Carapulcra (versión chinchana)", descripcion: "Tallarines secos con guiso de papa seca. Fusión costeña y andina.", imagen: "img/sopasecacarapulcra.jpg", link: "TodasRecetas/Sopa Seca con Carapulcra (versión chinchana).html" },
