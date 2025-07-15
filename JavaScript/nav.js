@@ -8,7 +8,7 @@ function toggleMenu() {
 
 /*CARD RECETAS*/
 const recetas = [
-  { nombre: "Ceviche", descripcion: "Plato bandera del Perú con pescado marinado en limón. Acompañado de cebolla, ají limo y cilantro.", imagen: "img/ceviche.jpg", link: "TodasRecetas/ceviche.html" },
+  { nombre: "Ceviche", descripcion: "Plato bandera del Perú con pescado marinado en limón. Acompañado de cebolla, ají limo y cilantro.", imagen: "img/Ceviche.jpg", link: "TodasRecetas/ceviche.html" },
   { nombre: "Lomo Saltado", descripcion: "Carne salteada con cebolla, tomate y papas fritas. Mezcla de cocina criolla y china.", imagen: "img/lomo.jpg", link: "TodasRecetas/Lomo Saltado.html" },
   { nombre: "Ají de Gallina", descripcion: "Pollo en crema espesa de ají amarillo, pan y queso. Se sirve con arroz y huevo duro.", imagen: "img/ajigallina.jpg", link: "TodasRecetas/Aji de Gallina.html" },
   { nombre: "Arroz Chaufa", descripcion: "Arroz frito estilo oriental con verduras, huevo y carne. Clásico de la cocina chifa.", imagen: "img/arrozchaufa.png", link: "TodasRecetas/Arroz Chaufa.html" },
