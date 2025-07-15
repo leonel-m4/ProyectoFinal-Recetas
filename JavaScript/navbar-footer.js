@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", () => {
             <i class="fa-solid fa-bars"></i>
         </a>
         <ul>
-            <li><a href="/index.html">Inicio</a></li>
-            <li><a href="/recetas.html">Recetas</a></li>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="recetas.html">Recetas</a></li>
         </ul>
   `;}
 
@@ -25,9 +25,9 @@ document.addEventListener("DOMContentLoaded", () => {
                         class="fa-solid fa-envelope"></i></a></li>
         </ul>
         <ul class="footer-menu">
-            <li><a href="/index.html">Inicio</a></li>
-            <li><a href="/equipo.html">Equipo</a></li>
-            <li><a href="/sobre.html">Sobre nosotros</a></li>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="equipo.html">Equipo</a></li>
+            <li><a href="sobre.html">Sobre nosotros</a></li>
         </ul>
         <p class="footer-copy">@2025 | Todos los derechos reservados </p>
   `;}
@@ -37,5 +37,5 @@ document.addEventListener("DOMContentLoaded", () => {
 const link = document.createElement("link");
 link.rel = "icon";
 link.type = "image/png";
-link.href = "/img/icon.png";
+link.href = "img/icon.png";
 document.head.appendChild(link);
